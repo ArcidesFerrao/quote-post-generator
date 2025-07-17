@@ -1,0 +1,3 @@
+[submodule "post-generator-frontend"]
+	path = post-generator-frontend
+	url = https://github.com/ArcidesFerrao/post-generator-frontend.git
